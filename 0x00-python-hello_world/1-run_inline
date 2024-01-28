@@ -1,0 +1,4 @@
+#!/bin/bash
+# This is a shell script that runs Python code
+python -c "$PYCODE"
+
