@@ -5,7 +5,6 @@
 /**
  * print_python_list_info - Print basics of Python lists
  * @p: PyObject
- *
  * Return: 0
  */
 
